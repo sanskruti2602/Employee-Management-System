@@ -56,7 +56,7 @@ Output:-
 ![Web capture_11-1-2024_143456_localhost](https://github.com/user-attachments/assets/af1d97ca-cd67-4722-8ce0-0d2c82f971fd)
 ![Web capture_11-1-2024_143434_localhost](https://github.com/user-attachments/assets/2bfc8d31-0be9-4506-a224-dc0beebbb6e5)
 ![Web capture_11-1-2024_143414_localhost](https://github.com/user-attachments/assets/b30b4478-65bd-47c4-b5f6-a8a36e84f33b)
-![Web capture_11-1-2024_143233_localhost](https://github.com/user-attachments/assets/dcd5bfac-7953-4d27-bd2c-56c56ec8ae07)
+
 <img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/41f33eab-39a5-491f-a883-a868c68e300f" />
 <img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/fabacbf3-55ed-4f45-af59-36109a560b81" />
 <img width="1895" height="881" alt="login page" src="https://github.com/user-attachments/assets/9a310925-e2ed-4044-9839-224cab4c24d7" />
