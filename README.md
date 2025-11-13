@@ -47,6 +47,15 @@ Angular, on the frontend, provides a dynamic and responsive user interface. It f
 
 In conclusion, the Employee Management System offers a robust solution for organizations to efficiently manage their workforce. The use of Spring Boot, Angular, and MySQL ensures a scalable, secure, and user-friendly platform for handling various employee-related tasks.
 
+![Web capture_11-1-2024_143456_localhost](https://github.com/user-attachments/assets/dfd998b5-5c1f-40c7-841c-cafb79fb2dfb)
+![Web capture_11-1-2024_143434_localhost](https://github.com/user-attachments/assets/479ddb79-3c30-4558-902a-e6f757f0e950)
+![Web capture_11-1-2024_143414_localhost](https://github.com/user-attachments/assets/80dcfa4f-c5b6-4542-a4d8-6614a9b3fcbf)
+![Web capture_11-1-2024_143359_localhost](https://github.com/user-attachments/assets/0000136a-7c24-49f2-891c-8e7ab8aef3b4)
+![Web capture_11-1-2024_143259_localhost](https://github.com/user-attachments/assets/1972ae03-2a76-4931-a540-7bdb507ad30e)
+![Web capture_11-1-2024_143233_localhost](https://github.com/user-attachments/assets/b2f8eddd-38c7-4f99-987a-0317690f001e)
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/2a2ae6ed-c108-45e1-bd55-85afbf65804e" />
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/8a22d327-b146-4ff5-ae7e-d7af682e9dbb" />
+<img width="1895" height="881" alt="login page" src="https://github.com/user-attachments/assets/74aa3ed1-9a64-45c6-a6cc-44aed8313ce6" />
 
 
 
