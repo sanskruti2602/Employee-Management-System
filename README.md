@@ -48,20 +48,18 @@ Angular, on the frontend, provides a dynamic and responsive user interface. It f
 In conclusion, the Employee Management System offers a robust solution for organizations to efficiently manage their workforce. The use of Spring Boot, Angular, and MySQL ensures a scalable, secure, and user-friendly platform for handling various employee-related tasks.
 
 
-HOME PAGE:-
+Output:-
 ![Web capture_11-1-2024_143259_localhost](https://github.com/user-attachments/assets/d077a13d-ea66-485c-aeda-5b833bdcf4c0)
 
-View all Employee Page:-
 ![Web capture_11-1-2024_143359_localhost](https://github.com/user-attachments/assets/677e8151-2792-4289-886d-ed0230b4c8e6)
 
-Update Existing Employee:-
-<img width="1895" height="881" alt="login page" src="https://github.com/user-attachments/assets/dadcbb76-6e1f-4b1a-aa9b-4d90deb755b6" />
-
-![Web capture_11-1-2024_143233_localhost](https://github.com/user-attachments/assets/a09fbca1-8548-4ed1-8957-c0dbb8a0f1a8)
-<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/8fcd921a-7c37-4375-affe-8616b1dd02f4" />
-<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/462313ec-6910-40ea-87f9-e8928e364410" />
-
-
+![Web capture_11-1-2024_143456_localhost](https://github.com/user-attachments/assets/af1d97ca-cd67-4722-8ce0-0d2c82f971fd)
+![Web capture_11-1-2024_143434_localhost](https://github.com/user-attachments/assets/2bfc8d31-0be9-4506-a224-dc0beebbb6e5)
+![Web capture_11-1-2024_143414_localhost](https://github.com/user-attachments/assets/b30b4478-65bd-47c4-b5f6-a8a36e84f33b)
+![Web capture_11-1-2024_143233_localhost](https://github.com/user-attachments/assets/dcd5bfac-7953-4d27-bd2c-56c56ec8ae07)
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/41f33eab-39a5-491f-a883-a868c68e300f" />
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/fabacbf3-55ed-4f45-af59-36109a560b81" />
+<img width="1895" height="881" alt="login page" src="https://github.com/user-attachments/assets/9a310925-e2ed-4044-9839-224cab4c24d7" />
 
 
 
