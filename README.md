@@ -49,6 +49,7 @@ In conclusion, the Employee Management System offers a robust solution for organ
 
 ![Web capture_11-1-2024_143259_localhost](https://github.com/user-attachments/assets/d077a13d-ea66-485c-aeda-5b833bdcf4c0)
 
+![Web capture_11-1-2024_143359_localhost](https://github.com/user-attachments/assets/677e8151-2792-4289-886d-ed0230b4c8e6)
 
 
 
